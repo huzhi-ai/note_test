@@ -1,0 +1,19 @@
+1. git remote -v //查看远程库
+
+<alias>  <link>
+
+2.git remote add <alias>  <link>  // set the alias of link_remote_repos
+
+3.git push <alias> <branch name>
+or
+git push <link> <branch name> //push the local_repos to the remote_repos_files 
+
+4.git pull <alias> <branch> //pull the remote_repos_files to the local_repos
+
+=================================== be invited by others collaborator =============
+
+open the <invited_link> given by others
+
+5.git clone <link of the repos>  // get the remote_repos to the local
+
+do the 3 or 4 or edit your own version
