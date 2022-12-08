@@ -1,0 +1,11 @@
+1.git branch -v
+master <version num> <version name>
+
+//create branch
+2.git branch <branch name>
+
+//switched branch
+3. git checkout <branch name>
+
+//merge branch
+4. git merge <branch name>
